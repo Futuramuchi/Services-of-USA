@@ -1,5 +1,5 @@
 # Services-of-USA
-Developer:
+Developers:
   1. Яна Самойлова
   2. Сушицкий Тим
   3. Александр Похиленко
